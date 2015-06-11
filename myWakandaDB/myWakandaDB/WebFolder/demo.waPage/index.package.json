@@ -1,0 +1,48 @@
+{
+	"name": "myWakandaDB/1.waPage/index.html",
+	"version": "1.0.0",
+	"loadDependencies": [
+		{
+			"id": "Desktop_Core",
+			"version": "1.0.0",
+			"type": "core"
+		},
+		{
+			"id": "Widget/dataGrid",
+			"type": "widget"
+		},
+		{
+			"id": "Widget/login",
+			"type": "widget"
+		},
+		{
+			"id": "lilac",
+			"type": "theme"
+		},
+		{
+			"id": "1.waPage/styles/index.css",
+			"path": "WEBFOLDER",
+			"type": "style"
+		},
+		{
+			"id": "application.css",
+			"path": "WEBFOLDER",
+			"type": "style"
+		},
+		{
+			"id": "demo.waPage/styles/index.css",
+			"path": "WEBFOLDER",
+			"type": "style"
+		},
+		{
+			"id": "1.waPage/scripts/index.js",
+			"path": "WEBFOLDER",
+			"type": "script"
+		},
+		{
+			"id": "demo.waPage/scripts/index.js",
+			"path": "WEBFOLDER",
+			"type": "script"
+		}
+	]
+}
