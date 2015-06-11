@@ -11,12 +11,13 @@ World Tour 2015で使用した4D Mobileの例題です。
 
 * サーバーサイドJavaScript
 * ページ・ウィジェット・データソース
-* テーマ・ロール
+* テーマ・ロール (application.css)
 * スコープ (publicOnServer)
 * ディレクトリ
 * ブートストラップ
 * setLoginListener()
 * requried.js
+* 制限クエリ
 
 Notes
 ---
