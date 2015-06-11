@@ -6,7 +6,7 @@ World Tour 2015で使用した4D Mobileの例題です。
 * REST API
 * メソッド公開
 * セッション数の上限
-* 
+
 **Wakanda**
 
 * サーバーサイドJavaScript
